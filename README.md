@@ -1,0 +1,2 @@
+# easyreading-pages
+easyreading support
